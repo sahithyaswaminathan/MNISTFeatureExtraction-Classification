@@ -1,3 +1,7 @@
+%% Description
+% Dimesion is reduced in such a way to preserve 95% of total energy after reduction. (d = 154 satisfies this condition)
+%=======================================================
+
 W1 = vector(:,1:inc);
 
 feature_vector = W1' * images;
