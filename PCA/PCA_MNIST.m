@@ -1,4 +1,4 @@
-%% Description 
+%% Description
 % The script completes the following tasks:
 % 1. Dimensionality reduction from 784 to 40, 80 and 200 for which train and test accuracy has been calculated using KNN classifier
 % 2. The data is projected on 2D and 3D for which data visualization is incorporated
