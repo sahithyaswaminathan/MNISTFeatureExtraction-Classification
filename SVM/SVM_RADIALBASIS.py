@@ -1,9 +1,9 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 17 20:02:13 2018
-
-@author: e0269724
-"""
+# Description
+# The script completes the following task:
+# 1. Dimension of the data are reduced using PCA and SVM is implemented using Radial basis kernel
+# 2. Train and Test accuracy are recorded by tuning the parameters
+#
+#==========================================================
 
 import mnist
 from sklearn.decomposition import PCA
