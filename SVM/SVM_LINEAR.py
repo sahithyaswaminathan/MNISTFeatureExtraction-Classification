@@ -1,4 +1,8 @@
-
+# Description
+# The script completes the following tasks
+# 1. Dimension of the data sets are reduced using PCA and Linear SVM is implemented for different penalty factors
+#
+#======================================
 
 import mnist
 from sklearn.decomposition import PCA
