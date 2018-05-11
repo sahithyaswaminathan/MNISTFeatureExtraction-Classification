@@ -1,3 +1,9 @@
+%% Description
+% 1. Dimensionality of the feature is reduced to 2, 3 and 9 for which train and test data accuracy is computed
+% 2. Data is projected on 2D and 3D for which data visualization is incorporated
+% 3. Test the maximum dimensionality for which LDA can be projected (Number of Classes - 1)
+%======================================================================
+
 clc;
 clear all;
 
